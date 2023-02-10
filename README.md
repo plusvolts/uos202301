@@ -4,8 +4,8 @@
 >    1. 001_공간정보 서비스 프로그래밍_2D_2302.pdf
 >    2. 002_공간정보 서비스 프로그래밍_모바일_2302.pdf
 >    3. mapapp.zip (2D GIS WEB / 진도 종료 후 제공)
->    4. mapapp3d.zip (3D GIS WEB / 실습을 위한 템플릿)
-> 
+>    4. mapapp3d.zip (3D GIS WEB / 실습을 위한 템플릿 / 제공안함)
+>    5. mapappmobile.zip (모바일 소스)
 ># 
 
 ## 유의사항 
